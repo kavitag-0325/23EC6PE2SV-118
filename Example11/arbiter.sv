@@ -1,7 +1,6 @@
 //------------------------------------------------------------------------------
 //File       : arbiter.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-28
+//Author     : Kavita/1BM23EC118
 //Module     : arbiter
 //Project    : SystemVerilog and Verification (23EC6PE2SV),
 //Faculty    : Prof. Ajaykumar Devarapalli
