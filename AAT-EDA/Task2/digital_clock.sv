@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 //File       : digital_clock.sv
-//Author     : Krishna Gupta/1BM23EC123
+//Author     : Kavita/1BM23EC118
 //Created    : 2026-01-28
 //Module     : digital_clock
 //Project    : SystemVerilog and Verification (23EC6PE2SV),
