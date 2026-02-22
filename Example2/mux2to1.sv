@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 //File       : mux2to1.sv
-//Author     : Krishna Gupta/1BM23EC123
+//Author     : Kavita/1BM23EC118
 //Created    : 2026-01-23
 //Module     : mux2to1
 //Project    : SystemVerilog and Verification (23EC6PE2SV),
